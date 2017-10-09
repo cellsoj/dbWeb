@@ -1,0 +1,25 @@
+div.d1{
+				background-color:#DDFFAA; 
+				color:#000000;
+				position:absolute;
+				margin-left:10px;
+				margin-top:10px;
+				width:97%;
+				height:140px;
+				text-align:center;
+			}
+div.d2{
+  background-color:#BBEE99;
+  position:absolute;
+  margin-top:160px;
+  margin-left:10px;
+  width:97%;
+  text-align:center;
+}
+div.d3{
+  position:absolute;
+  margin-top:160px;
+  margin-left:10px;
+  width:97%;
+  text-align:center;
+}
